@@ -1,0 +1,2 @@
+# strick-bootstrap
+strick
